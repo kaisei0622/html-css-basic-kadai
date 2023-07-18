@@ -1,8 +1,5 @@
 header {
   text-align: center;
-  border-bottom: 3px solid #737572;
-  line-height: 0.5;
-
 }
 
 body {
@@ -16,6 +13,8 @@ h1 {
   font-size: 40px;
   text-shadow: 1px 1px 2px gray;
   letter-spacing: 1.2em;
+  line-height: 50px;
+  border-bottom: 3px solid #737572;
 }
 
 .font_blue {
@@ -26,6 +25,6 @@ h1 {
   color:#ffc0cb;
 }
 
-.decoration {
+#basic > p {
   font-weight: bold;
 }
